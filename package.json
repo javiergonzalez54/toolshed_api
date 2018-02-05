@@ -4,7 +4,7 @@
   "description": "",
   "main": "toolshed_api.js",
   "scripts": {
-    "start":"node toolshed_tom.js"
+    "start":"node toolshed_api.js"
   },
   "author": "",
   "license": "ISC",
